@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ICIP_SIP_NEWS/static/css/main.abd64e84.css",
+    "main.js": "/ICIP_SIP_NEWS/static/js/main.453c8d29.js",
+    "static/js/787.4c026eef.chunk.js": "/ICIP_SIP_NEWS/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/ICIP_SIP_NEWS/static/media/loading.a1a996746e5e48352c81.gif",
+    "index.html": "/ICIP_SIP_NEWS/index.html",
+    "main.abd64e84.css.map": "/ICIP_SIP_NEWS/static/css/main.abd64e84.css.map",
+    "main.453c8d29.js.map": "/ICIP_SIP_NEWS/static/js/main.453c8d29.js.map",
+    "787.4c026eef.chunk.js.map": "/ICIP_SIP_NEWS/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.453c8d29.js"
+  ]
+}
